@@ -4,7 +4,7 @@ title: |
     <img src="637382017185780333+290935.avif" style="height:70px;">
     <span>GP2: Shopify Mini-Store Prototype</span>
   </div>
-author: "Luis Ahumada, Spencer Conway, Carmen Jimenez Rodriguez, Leeann Lewis-Waddell, & Georgia Monjarrez"
+author: "Group 5: Luis Ahumada, Spencer Conway, Carmen Jimenez Rodriguez, Leeann Lewis-Waddell, & Georgia Monjarrez"
 date: today
 format: 
   html: 

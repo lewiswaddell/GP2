@@ -28,12 +28,20 @@ execute:
 
 # Target Customer
 
-# Ecommerce Strategy
+The target customer for the CPP Farm Store is someone who is looking for thoughtful, local, and a convenient gift, like the gift basket. While the farm store also serves CPP students, staff, alumni, and the local community, for the purpose of the Farm Store's goal of increasing gift basket sales, the online store should really highlight how special the gift baskets are.
+
+One key customer is the a buyer who has a connection to Cal Poly Pomona. This includes alumni, parents of students, staff, current students, and any campus visitor who wants to purchase a gift that feels connected to Cal Poly Pomona. These customers may buy gift baskets for holidays, birthdays, thank you gifts, care packages, graduation, or any special on campus event. For these customers, the value of the gift basket is not just the products that are included in the basket, but the connection to CPP and the local farm store experience.
+
+Another key target customer would be the local community shopper who values fresh, high quality, and locally inspired products. This customer may be interested in home-grown goods such as fruits, vegetables, honey, and other CPP branded items that feel different and more natural than those found at the local grocery store. A gift basket makes these items easier to buy because it packages them into a ready-to-give option.
+
+Overall, the ideal customer for the CPP Farm Store values convenience, freshness presentation, and meaning. They may visit the Farm Store for regular grocery shopping, but the online store can also encourage them to see the farm store as a place to buy thoughtful gifts. By highlighting gift baskets alongside fresh produce, snacks, specialty foods, and CPP branded products, the shopify mini store can support both everyday shopping and special occasion purchases as well like the gift basket.
+
+# E commerce Strategy
 
 # Connection to Omnichannel Journey Map
 
 # Appendix
 
--   [GitHub Repo](https://github.com/lewiswaddell/GP2.git)
+- [GitHub Repo](https://github.com/lewiswaddell/GP2.git)
 
--   GitHub Page
+- GitHub Page

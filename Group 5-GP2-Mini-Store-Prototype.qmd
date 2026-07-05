@@ -31,3 +31,9 @@ execute:
 # Ecommerce Strategy
 
 # Connection to Omnichannel Journey Map
+
+# Appendix
+
+-   [GitHub Repo](https://github.com/lewiswaddell/GP2.git)
+
+-   GitHub Page

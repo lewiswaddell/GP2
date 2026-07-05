@@ -38,10 +38,67 @@ Overall, the ideal customer for the CPP Farm Store values convenience, freshness
 
 # E commerce Strategy
 
+::: callout-important
+**Purpose of the prototype:**
+Show how CPP Farm Store can extend its in-person retail experience online, with two goals:
+
+-   A centralized inventory model so stock isn't tracked twice between in-store and online
+
+-   A self-service gift basket experience customers can browse and build without staff help
+:::
+
+## Gift basket structure (hybrid model):
+
+-   **Curated baskets:** fixed pre-built options ("Fall Harvest," "CPP Grad Gift," "Faculty Welcome Basket") for customers who want a quick, no-decisions purchase
+
+-   **Build-your-own:** customer selects a base size/container, then adds or swaps items from a defined "basket-eligible" product set (not the full catalog)
+
+## Inventory approach (component-level):
+
+-   Every basket, whether curated or custom, is a collection of individual SKUs (jam, honey, produce, tote, etc.) drawing from the same stock pool as items sold standalone
+
+-   Selling one jar of honey in a basket and one sold on its own both deduct from the same count (no double-tracking)
+
+## Platform & Tech
+
+-   **Payment gateway:** Shopify Payments as default
+
+-   **Checkout & mobile:**
+    Standard Shopify checkout; mobile-first layout given likely on-the-go/student browsing behavior
+
+-   **Shipping/fulfillment:** Local delivery and in-store pickup are primary fulfillment methods
+
+-   **Navigation:**
+    Fresh Produce · Gift Baskets · Build Your Own Basket · Seasonal Items · CPP Favorites · Store Pickup · About
+
+-   **Homepage:**
+
+    -   Featured seasonal products or basket themes
+
+    -   Clear CTA: "Shop Gift Baskets" / "Build Your Own" / "Order for Pickup"
+
+-   **Gift basket page (core interaction):**
+
+    -   Curated baskets displayed as standard products (image, description, price, CTA)
+
+    -   "Build Your Own" flow: pick container size → select/swap items from eligible set → live price update → add to cart
+
+    -   Availability should reflect real component stock (e.g. disable an item if its inventory is out)
+
+## Content & SEO
+
+-   Product/basket descriptions should be customer-oriented: what it is, who it's for, why it's appealing (e.g. "Great for move-in gifts" for a student audience)
+
+## Marketing & Acquisition
+
+-   Simple seasonal landing pages tied to basket themes featured on social media and in newsletter
+
+-   Email/SMS capture at cart and checkout, with abandoned cart flow
+
 # Connection to Omnichannel Journey Map
 
 # Appendix
 
-- [GitHub Repo](https://github.com/lewiswaddell/GP2.git)
+-   [GitHub Repo](https://github.com/lewiswaddell/GP2.git)
 
-- GitHub Page
+-   GitHub Page

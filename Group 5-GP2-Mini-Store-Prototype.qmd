@@ -17,3 +17,17 @@ editor: visual
 execute: 
   freeze: auto
 ---
+
+# Shopify Store Preview Link & Screenshots
+
+# Homepage Screenshot
+
+# Navigation/Menu Screenshot
+
+# Product/Collection Examples
+
+# Target Customer
+
+# Ecommerce Strategy
+
+# Connection to Omnichannel Journey Map

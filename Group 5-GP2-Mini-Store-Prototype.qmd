@@ -20,11 +20,21 @@ execute:
 
 # Shopify Store Preview Link & Screenshots
 
+<https://cpp-farm-store-prototype.myshopify.com>
+
 # Homepage Screenshot
+
+![](images/clipboard-4120022213.png)
 
 # Navigation/Menu Screenshot
 
+![](images/clipboard-749625725.png)
+
 # Product/Collection Examples
+
+![](images/clipboard-968925162.png)
+
+![](images/clipboard-3716014273.png)
 
 # Target Customer
 
@@ -39,8 +49,7 @@ Overall, the ideal customer for the CPP Farm Store values convenience, freshness
 # E commerce Strategy
 
 ::: callout-important
-**Purpose of the prototype:**
-Show how CPP Farm Store can extend its in-person retail experience online, with two goals:
+**Purpose of the prototype:** Show how CPP Farm Store can extend its in-person retail experience online, with two goals:
 
 -   A centralized inventory model so stock isn't tracked twice between in-store and online
 
@@ -63,13 +72,11 @@ Show how CPP Farm Store can extend its in-person retail experience online, with 
 
 -   **Payment gateway:** Shopify Payments as default
 
--   **Checkout & mobile:**
-    Standard Shopify checkout; mobile-first layout given likely on-the-go/student browsing behavior
+-   **Checkout & mobile:** Standard Shopify checkout; mobile-first layout given likely on-the-go/student browsing behavior
 
 -   **Shipping/fulfillment:** Local delivery and in-store pickup are primary fulfillment methods
 
--   **Navigation:**
-    Fresh Produce · Gift Baskets · Build Your Own Basket · Seasonal Items · CPP Favorites · Store Pickup · About
+-   **Navigation:** Fresh Produce · Gift Baskets · Build Your Own Basket · Seasonal Items · CPP Favorites · Store Pickup · About
 
 -   **Homepage:**
 
@@ -96,6 +103,16 @@ Show how CPP Farm Store can extend its in-person retail experience online, with 
 -   Email/SMS capture at cart and checkout, with abandoned cart flow
 
 # Connection to Omnichannel Journey Map
+
+![](images/clipboard-2034343450.jpeg)
+
+The CPP Farm Store Shopify prototype supports an omnichannel customer journey by providing a seamless shopping experience across both digital and physical channels. Customers can discover the Farm Store through social media, search engines, or the Cal Poly Pomona website and then browse products online before deciding to visit the physical store or purchase online.
+
+The homepage highlights featured collections such as fresh produce, specialty foods, gifts, and seasonal favorites, making it easy for customers to explore products based on their interests. The navigation menu organizes products into clear categories, reducing the effort required to find items and improving the browsing experience.
+
+As customers move through the journey from awareness and consideration to purchase, the Shopify store provides consistent branding and product information. Whether customers shop online or visit the Farm Store in person, they encounter the same product categories, promotions, and branding, creating a connected experience across channels.
+
+Overall, the Shopify prototype strengthens the omnichannel strategy by integrating the online storefront with the physical Farm Store, helping customers transition smoothly between discovering products, exploring offerings, and completing a purchase.
 
 # Appendix
 
